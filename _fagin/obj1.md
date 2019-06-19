@@ -12,5 +12,4 @@ layout: qatar_item
 collection: fagin
 thumbnail: img/derivatives/simple/obj1/thumbnail.jpg
 full: img/derivatives/simple/obj1/full.jpg
-manifest: 
 ---
