@@ -1,13 +1,13 @@
 ---
 pid: obj2
 artist: Unknown
-location: Sarasota
-label: Helen Fagin Collection item 2
-_date: '2003'
+location: Egypt
+label: Sulwan Al-Muta'a
+_date: 14th century
 object_type: manuscript
-current_location: Cook Library
+current_location: The Museum of Islamic Art, Qatar
 source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Century_-_Sulwan_Al-Muta%27a_-_Google_Art_Project.jpg
-order: '1'
+order: '01'
 layout: qatar_item
 collection: qatar
 thumbnail: img/derivatives/simple/obj2/thumbnail.jpg
