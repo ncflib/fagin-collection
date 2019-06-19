@@ -10,9 +10,9 @@ layout: none
     "_date": "2013",
     "object_type": "panel",
     "current_location": "Cook Library",
-    "collection": "fagin",
+    "collection": "qatar",
     "thumbnail": "img/derivatives/simple/obj5/thumbnail.jpg",
-    "permalink": "/fagin/obj5",
+    "permalink": "/qatar/obj5",
     "lunr_id": 0
   },
   {
@@ -23,9 +23,9 @@ layout: none
     "_date": "2004",
     "object_type": "manuscript",
     "current_location": "Cook Library",
-    "collection": "fagin",
+    "collection": "qatar",
     "thumbnail": "img/derivatives/simple/obj1/thumbnail.jpg",
-    "permalink": "/fagin/obj1",
+    "permalink": "/qatar/obj1",
     "lunr_id": 1
   },
   {
@@ -36,9 +36,9 @@ layout: none
     "_date": "2009",
     "object_type": "manuscript",
     "current_location": "Cook Library",
-    "collection": "fagin",
+    "collection": "qatar",
     "thumbnail": "img/derivatives/simple/obj4/thumbnail.jpg",
-    "permalink": "/fagin/obj4",
+    "permalink": "/qatar/obj4",
     "lunr_id": 2
   },
   {
@@ -49,9 +49,9 @@ layout: none
     "_date": "2000",
     "object_type": "manuscript",
     "current_location": "Cook Library",
-    "collection": "fagin",
+    "collection": "qatar",
     "thumbnail": "img/derivatives/simple/obj8/thumbnail.jpg",
-    "permalink": "/fagin/obj8",
+    "permalink": "/qatar/obj8",
     "lunr_id": 3
   },
   {
@@ -62,9 +62,9 @@ layout: none
     "_date": "2003",
     "object_type": "map",
     "current_location": "Cook Library",
-    "collection": "fagin",
+    "collection": "qatar",
     "thumbnail": "img/derivatives/simple/obj3/thumbnail.jpg",
-    "permalink": "/fagin/obj3",
+    "permalink": "/qatar/obj3",
     "lunr_id": 4
   },
   {
@@ -75,9 +75,9 @@ layout: none
     "_date": "2000",
     "object_type": "manuscript",
     "current_location": "Cook Library",
-    "collection": "fagin",
+    "collection": "qatar",
     "thumbnail": "img/derivatives/simple/obj7/thumbnail.jpg",
-    "permalink": "/fagin/obj7",
+    "permalink": "/qatar/obj7",
     "lunr_id": 5
   },
   {
@@ -88,9 +88,9 @@ layout: none
     "_date": "2014",
     "object_type": "manuscript",
     "current_location": "Cook Library",
-    "collection": "fagin",
+    "collection": "qatar",
     "thumbnail": "img/derivatives/simple/obj6/thumbnail.jpg",
-    "permalink": "/fagin/obj6",
+    "permalink": "/qatar/obj6",
     "lunr_id": 6
   },
   {
@@ -101,9 +101,9 @@ layout: none
     "_date": "2003",
     "object_type": "manuscript",
     "current_location": "Cook Library",
-    "collection": "fagin",
+    "collection": "qatar",
     "thumbnail": "img/derivatives/simple/obj2/thumbnail.jpg",
-    "permalink": "/fagin/obj2",
+    "permalink": "/qatar/obj2",
     "lunr_id": 7
   }
 ]

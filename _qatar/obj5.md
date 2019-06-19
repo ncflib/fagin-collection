@@ -9,7 +9,7 @@ current_location: Cook Library
 source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran_-_Panel_from_Iran_-_Google_Art_Project.jpg
 order: '4'
 layout: qatar_item
-collection: fagin
+collection: qatar
 thumbnail: img/derivatives/simple/obj5/thumbnail.jpg
 full: img/derivatives/simple/obj5/full.jpg
 ---
