@@ -21,7 +21,7 @@
 title:            'Helen Fagin Collection'
 description:      'Minimal Exhibitions of the Helen Fagin Collection using Wax, from Columbia'
 url:              'https://ncflib.github.io/'
-baseurl:          ''
+baseurl:          '/fagin-collection'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
