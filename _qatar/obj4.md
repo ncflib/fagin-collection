@@ -1,15 +1,16 @@
 ---
 pid: obj4
 artist: Unknown
-location: Iran
-label: Faridun crosses the River Dijla, fol. 33v
-_date: 1525 - 1535
+location: Sarasota
+label: So and so and that
+_date: '2003'
 object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran_-_Page_from_the_Shahnama_of_Shah_Tahmasp_-_Google_Art_Project.jpg
-order: '03'
+current_location: Cook Library
+source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Century_-_Sulwan_Al-Muta%27a_-_Google_Art_Project.jpg
+order: '3'
 layout: qatar_item
 collection: qatar
-thumbnail: img/derivatives/simple/obj4/thumbnail.jpg
-full: img/derivatives/simple/obj4/full.jpg
+thumbnail: "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj4/full/full/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj4/manifest.json"
 ---

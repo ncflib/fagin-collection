@@ -19,9 +19,9 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Helen Fagin Collection'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://ncflib.github.io/fagin-collection'
-baseurl:          ''
+description:      'Minimal Exhibitions of the Helen Fagin Collection using Wax, from Columbia'
+url:              'https://minicomp.github.io'
+baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -106,6 +106,10 @@ menu:
     sub:
       - label: 'Wax'
         link: '/about/'
+      - label: 'Documentation'
+        link: 'https://minicomp.github.io/wiki/wax/'
+      - label: 'Credits'
+        link: '/credits/'
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'

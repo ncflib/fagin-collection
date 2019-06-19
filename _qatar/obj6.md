@@ -1,15 +1,16 @@
 ---
 pid: obj6
 artist: Unknown
-location: Iran
-label: Diwan of Jami Manuscript
-_date: 16th century
-object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_16th_Century_-_Diwan_of_Jami_Manuscript_-_Google_Art_Project.jpg
-order: '05'
+location: Sarasota
+label: So and so and that
+_date: '2005'
+object_type: letter
+current_location: Cook Library
+source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Century_-_Sulwan_Al-Muta%27a_-_Google_Art_Project.jpg
+order: '5'
 layout: qatar_item
 collection: qatar
-thumbnail: img/derivatives/simple/obj6/thumbnail.jpg
-full: img/derivatives/simple/obj6/full.jpg
+thumbnail: "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj6/full/full/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj6/manifest.json"
 ---

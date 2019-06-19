@@ -1,15 +1,16 @@
 ---
 pid: obj12
-artist: Bahādur Fīrūz, ʻAbd Allāh Khān
-location: Middle East and North Africa
-label: Excerpt from 'The Book of Horses' (فَرَس نامه [رسالة في الخيول)
-_date: Around 1628 - 1658
-object_type: manuscript
-current_location: Qatar National Library
-source: https://www.wdl.org/en/item/10668/
+artist: Unknown
+location: Sarasota
+label: So and so and that
+_date: '2011'
+object_type: panel
+current_location: Cook Library
+source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Century_-_Sulwan_Al-Muta%27a_-_Google_Art_Project.jpg
 order: '11'
 layout: qatar_item
 collection: qatar
-thumbnail: img/derivatives/simple/obj12_04/thumbnail.jpg
-full: img/derivatives/simple/obj12_04/full.jpg
+thumbnail: "/img/derivatives/iiif/images/obj12/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj12/full/full/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj12/manifest.json"
 ---

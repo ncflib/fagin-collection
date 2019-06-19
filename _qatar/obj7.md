@@ -1,15 +1,16 @@
 ---
 pid: obj7
 artist: Unknown
-location: Iran
-label: Page from the Shahnama
-_date: 1525 - 1535
-object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_16th_Century_-_Page_from_the_Shahnama_-_Google_Art_Project.jpg
-order: '06'
+location: Sarasota
+label: So and so and that
+_date: '2006'
+object_type: letter
+current_location: Cook Library
+source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Century_-_Sulwan_Al-Muta%27a_-_Google_Art_Project.jpg
+order: '6'
 layout: qatar_item
 collection: qatar
-thumbnail: img/derivatives/simple/obj7/thumbnail.jpg
-full: img/derivatives/simple/obj7/full.jpg
+thumbnail: "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj7/full/full/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj7/manifest.json"
 ---
