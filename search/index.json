@@ -1,0 +1,109 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj5",
+    "artist": "Unknown",
+    "location": "Sarasota",
+    "label": "Helen Fagin Collection item 5",
+    "_date": "2013",
+    "object_type": "panel",
+    "current_location": "Cook Library",
+    "collection": "fagin",
+    "thumbnail": "img/derivatives/simple/obj5/thumbnail.jpg",
+    "permalink": "/fagin/obj5",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj1",
+    "artist": "Unknown",
+    "location": "Sarasota",
+    "label": "Helen Fagin Collection item 1",
+    "_date": "2004",
+    "object_type": "manuscript",
+    "current_location": "Cook Library",
+    "collection": "fagin",
+    "thumbnail": "img/derivatives/simple/obj1/thumbnail.jpg",
+    "permalink": "/fagin/obj1",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj4",
+    "artist": "Unknown",
+    "location": "Sarasota",
+    "label": "Helen Fagin Collection item 4",
+    "_date": "2009",
+    "object_type": "manuscript",
+    "current_location": "Cook Library",
+    "collection": "fagin",
+    "thumbnail": "img/derivatives/simple/obj4/thumbnail.jpg",
+    "permalink": "/fagin/obj4",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj8",
+    "artist": "Unknown",
+    "location": "Sarasota",
+    "label": "Helen Fagin Collection item 8",
+    "_date": "2000",
+    "object_type": "manuscript",
+    "current_location": "Cook Library",
+    "collection": "fagin",
+    "thumbnail": "img/derivatives/simple/obj8/thumbnail.jpg",
+    "permalink": "/fagin/obj8",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj3",
+    "artist": "Unknown",
+    "location": "Sarasota",
+    "label": "Helen Fagin Collection item 3",
+    "_date": "2003",
+    "object_type": "map",
+    "current_location": "Cook Library",
+    "collection": "fagin",
+    "thumbnail": "img/derivatives/simple/obj3/thumbnail.jpg",
+    "permalink": "/fagin/obj3",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj7",
+    "artist": "Unknown",
+    "location": "Sarasota",
+    "label": "Helen Fagin Collection item 7",
+    "_date": "2000",
+    "object_type": "manuscript",
+    "current_location": "Cook Library",
+    "collection": "fagin",
+    "thumbnail": "img/derivatives/simple/obj7/thumbnail.jpg",
+    "permalink": "/fagin/obj7",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj6",
+    "artist": "Unknown",
+    "location": "Sarasota",
+    "label": "Helen Fagin Collection item 6",
+    "_date": "2014",
+    "object_type": "manuscript",
+    "current_location": "Cook Library",
+    "collection": "fagin",
+    "thumbnail": "img/derivatives/simple/obj6/thumbnail.jpg",
+    "permalink": "/fagin/obj6",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj2",
+    "artist": "Unknown",
+    "location": "Sarasota",
+    "label": "Helen Fagin Collection item 2",
+    "_date": "2003",
+    "object_type": "manuscript",
+    "current_location": "Cook Library",
+    "collection": "fagin",
+    "thumbnail": "img/derivatives/simple/obj2/thumbnail.jpg",
+    "permalink": "/fagin/obj2",
+    "lunr_id": 7
+  }
+]
